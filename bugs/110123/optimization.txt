@@ -1,0 +1,1 @@
+-O3 -fno-code-hoisting -fno-tree-ccp -fno-tree-copy-prop -fno-tree-loop-ivcanon -fno-tree-pre

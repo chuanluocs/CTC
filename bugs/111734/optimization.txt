@@ -1,0 +1,1 @@
+-O3 -fno-inline-functions-called-once -fno-inline-small-functions -fno-omit-frame-pointer -fno-toplevel-reorder -fno-tree-fre
